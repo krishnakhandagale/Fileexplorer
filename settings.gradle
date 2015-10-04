@@ -1,0 +1,2 @@
+include ':app', ':mime-util-2.1', ':log4j-1.2-api-2.4', ':slf4j-api-1.7.12', ':slf4j-log4j12-1.7.12'
+include ':junrarandroidmaster'

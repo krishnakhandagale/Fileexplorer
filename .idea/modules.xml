@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fileexplorer.iml" filepath="$PROJECT_DIR$/Fileexplorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junrarandroidmaster/junrarandroidmaster.iml" filepath="$PROJECT_DIR$/junrarandroidmaster/junrarandroidmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junrarandroidmaster/junrarandroidmaster.iml" filepath="$PROJECT_DIR$/junrarandroidmaster/junrarandroidmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log4j-1.2-api-2.4/log4j-1.2-api-2.4.iml" filepath="$PROJECT_DIR$/log4j-1.2-api-2.4/log4j-1.2-api-2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mime-util-2.1/mime-util-2.1.iml" filepath="$PROJECT_DIR$/mime-util-2.1/mime-util-2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slf4j-api-1.7.12/slf4j-api-1.7.12.iml" filepath="$PROJECT_DIR$/slf4j-api-1.7.12/slf4j-api-1.7.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slf4j-log4j12-1.7.12/slf4j-log4j12-1.7.12.iml" filepath="$PROJECT_DIR$/slf4j-log4j12-1.7.12/slf4j-log4j12-1.7.12.iml" />
+    </modules>
+  </component>
+</project>

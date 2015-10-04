@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\krishna\.gradle\caches\modules-2\files-2.1\org.apache.tika\tika-core\1.4\30fd5d2c4c21ed908d4b74064ac7f4f4fdbe9ae7\tika-core-1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="30fd5d2c4c21ed908d4b74064ac7f4f4fdbe9ae7">
+        <dex dex="E:\Fileexplorer\app\build\intermediates\pre-dexed\debug\tika-core-1.4-ba1f2650e2d97cccbb3999de0591521ec61692e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\krishna\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.14\3b254c872b95141751f414e353a25c2ac261b51\log4j-1.2.14.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03b254c872b95141751f414e353a25c2ac261b51">
+        <dex dex="E:\Fileexplorer\app\build\intermediates\pre-dexed\debug\log4j-1.2.14-83e0056736d0d00460cf10ff6afa26959df3dc18.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Fileexplorer\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-f9a5bd664b77399d063a6785d07eaebe875fb53f.jar" />
+    </item>
+    <item
+        jar="C:\Users\krishna\.gradle\caches\modules-2\files-2.1\eu.medsea.mimeutil\mime-util\2.1.1\9fbbb6ddd330872f1b3c8ee7b09da073843a5f05\mime-util-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fbbb6ddd330872f1b3c8ee7b09da073843a5f05">
+        <dex dex="E:\Fileexplorer\app\build\intermediates\pre-dexed\debug\mime-util-2.1.1-14f895203b4df0a7c722ced9477e9539ae46d1dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\krishna\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-log4j12\1.5.6\688d569f0d3548f2bc7bf1648aba297312b0076a\slf4j-log4j12-1.5.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="688d569f0d3548f2bc7bf1648aba297312b0076a">
+        <dex dex="E:\Fileexplorer\app\build\intermediates\pre-dexed\debug\slf4j-log4j12-1.5.6-8de08574ebd084a472da40f5a7cea4fd4b9c6864.jar" />
+    </item>
+    <item
+        jar="C:\Users\krishna\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.5.6\ec9b7142625dfa1dcaf22db99ecb7c555ffa714d\slf4j-api-1.5.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec9b7142625dfa1dcaf22db99ecb7c555ffa714d">
+        <dex dex="E:\Fileexplorer\app\build\intermediates\pre-dexed\debug\slf4j-api-1.5.6-92b1a1192474e6b1b1bd7cf84b1d0d3e009af857.jar" />
+    </item>
+
+</items>
